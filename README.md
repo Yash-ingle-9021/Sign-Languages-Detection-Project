@@ -1,4 +1,4 @@
-# Yolov5-app-deployment-on-AWS
+# Yolo-v5-app-deployment-on-AWS
 # YOLO web app
 
 
